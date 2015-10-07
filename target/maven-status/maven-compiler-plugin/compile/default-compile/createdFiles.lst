@@ -1,0 +1,10 @@
+se/kebnekaise/rest/config/JerseyConfiguration.class
+se/kebnekaise/rest/config/CORSFilter.class
+se/kebnekaise/rest/config/SpringWebContainerInitializer.class
+se/kebnekaise/rest/config/JacksonConfiguration.class
+se/kebnekaise/rest/config/SpringConfiguration.class
+se/kebnekaise/rest/resource/IssueResource.class
+se/kebnekaise/rest/resource/ItemResource.class
+se/kebnekaise/rest/resource/TeamResource.class
+se/kebnekaise/rest/resource/SearchResource.class
+se/kebnekaise/rest/resource/UserResource.class

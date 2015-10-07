@@ -1,0 +1,10 @@
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/config/SpringWebContainerInitializer.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/config/JerseyConfiguration.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/resource/ItemResource.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/config/SpringConfiguration.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/resource/UserResource.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/resource/SearchResource.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/config/JacksonConfiguration.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/resource/IssueResource.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/resource/TeamResource.java
+/Users/hssen/Documents/java/Storyboard API/Storyboard/src/main/java/se/kebnekaise/rest/config/CORSFilter.java
